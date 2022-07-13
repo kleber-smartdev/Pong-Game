@@ -4,4 +4,10 @@ I have used the P5 JS framework https://p5js.org/
 
 <br>
 <br>
-[[Google](https://google.com" target="_blank)](http://stackoverflow.com/questions/4425198/markdown-target-blank)
+
+Live Demo: [demo](https://example.com){:target="_blank"} //kramdown
+
+Live Demo: [demo](https://example.com){target="_blank"} //markdown
+
+Live Demo: <a href="https://example.com" target="_blank">demo</a> //html
+
