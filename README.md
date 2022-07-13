@@ -4,4 +4,4 @@ I have used the P5 JS framework https://p5js.org/
 
 <br>
 <br>
-Go to this page](http://somelink.com/?target=_blank)
+[1]: http://somelink.com/?target=_blank
