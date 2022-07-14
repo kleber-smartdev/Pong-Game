@@ -1,5 +1,5 @@
 # Pong Game in JS
-<br>
+Version in JS of Pong the table tennis–themed twitch arcade sports video game, featuring simple two-dimensional graphics, manufactured by Atari and originally released in 1972.
 <br>
 I have used the P5 JS Framework https://p5js.org/
 <br>
