@@ -5,6 +5,10 @@ Version in JS of Pong the table tennis–themed twitch arcade sports video game,
 I have used the P5 JS Framework https://p5js.org/
 <br>
 <br>
+
+### Deployed at GitHub Pages
+- [Live Demo](https://kleber-smartdev.github.io/Pong-Game/)
+
 I am still struggling to find a solution for beat player 2, and also it has a bug, sometimes the ball got stuck between the bar and the wall increasing the scores very fast.
 <br>
 <br>
