@@ -15,6 +15,4 @@ I am still struggling to find a solution for beat player 2, and also it has a bu
 Please, feel free to contribute to this study project.
 
 ### Contribute, Fork it, Share it!
-https://kleberux.com/
-<br>
 😉🚀
